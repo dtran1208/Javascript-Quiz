@@ -27,9 +27,10 @@
 - THEN I can save my initials and my score
 # Getting Started
 ## To get started with this project, follow these steps:
-- Open this website : 
+- Open this website : https://dtran1208.github.io/Javascript-Quiz/
 - Click the "Start" button to begin the quiz
 
-
+# License
+- This project is licensed under the MIT License
 
 
