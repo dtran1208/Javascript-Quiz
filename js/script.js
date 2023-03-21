@@ -140,4 +140,4 @@ function countdown() {
     // Redirect to high scores page or show a success message
   });
   
-  startBtn.addEventListener('click', startQuiz);
+  startBtn.addEventListener('click', startQuiz);    
